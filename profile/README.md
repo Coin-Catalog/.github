@@ -14,3 +14,5 @@
 ## About
 
 We have a site full of all the diffrent types of coins made throught out American History. You can read the contribution guide in each repository.
+
+<img src="https://komarev.com/ghpvc/?username=your-Coin-Catalog" />
