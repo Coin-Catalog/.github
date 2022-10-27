@@ -1,4 +1,4 @@
-# Hi there 👋 we are the Coin Catalog
+# Hi there 👋 we are Coin Catalog
 
 ## About
 
